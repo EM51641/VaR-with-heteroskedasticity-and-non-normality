@@ -1,5 +1,5 @@
 # VaR-with-heteroskedasticity-and-non-normality
-VaR with heteroskedasticity and non-normality(McNeil and Frey, 2000)
+VaR under heteroskedasticity and non-normality(McNeil and Frey, 2000)
 
 Research Paper :
 
